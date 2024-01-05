@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Me llamo José María</h1>
 <h3 align="center">Soy un programador Junior en Unity/C#</h3>
 
+![https://github.com/joseTokioSchool](https://raw.githubusercontent.com/joseTokioSchool/joseTokioSchool/main/BannerFinalGITHUB.png)
+
 - 👨‍💻 All of my projects are available at [https://github.com/joseTokioSchool](https://github.com/joseTokioSchool)
 
 - 💬 Ask me about **C#**
